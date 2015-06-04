@@ -1,6 +1,6 @@
 # case-casting
 
-This project defines casting form upper case to lower case and vice versa for
+This project defines casting from upper case to lower case and vice versa for
 the Dutch language. This is of course extremely trivial. However, the list
 provided here can be used to do casting or to test casting software.
 
