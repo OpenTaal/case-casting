@@ -13,5 +13,5 @@ For the Dutch language, there are no requirements for casting of characters
 which are not in the list provided here. Casting between such characters can be
 done by the default behaviour of the used programming language or software
 library. This is also trivial for casting between the Polish Ł and ł but can
-prove a problem for casting between the Greek Σ and σ or ς when there is no
-context provided.
+prove a problem for casting between the Greek Σ and σ or ς (only used at the end
+of a word) when there is no context provided. The default is to cast Σ to σ.
