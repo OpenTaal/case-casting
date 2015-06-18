@@ -12,5 +12,6 @@ custom software. A more readable  rendered version can be found [here](case-cast
 For the Dutch language, there are no requirements for casting of characters
 which are not in the list provided here. Casting between such characters can be
 done by the default behaviour of the used programming language or software
-library. This is also trivial for casting between Ł and ł but can prove a
-problem for casting between Σ and σ or ς.
+library. This is also trivial for casting between the Polish Ł and ł but can
+prove a problem for casting between the Greek Σ and σ or ς when there is no
+context provided.
